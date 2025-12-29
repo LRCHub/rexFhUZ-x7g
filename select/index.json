@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Boy in Paris",
+  "base_artist": "Diana Vickers",
+  "createdAt": "2025-12-29T11:03:11.485571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boy In Paris",
+      "artist": "Diana Vickers",
+      "has_synced": true,
+      "path": "select/01_Boy_In_Paris_Diana_Vickers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boy in Paris",
+      "artist": "Diana Vickers",
+      "has_synced": false,
+      "path": "select/pl_01_Boy_in_Paris_Diana_Vickers.txt"
+    }
+  ]
+}
