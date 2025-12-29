@@ -1,0 +1,68 @@
+# Diana Vickers – Boy in Paris
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.48] Black and blue
+[00:17.26] Broke down on the floor in my bedroom
+[00:20.88] Right here right now
+[00:24.44] I used my favorite trick to get me off
+[00:29.08] Close my eyes
+[00:33.42] All I wanna do is get away
+[00:37.05] I'll be fine
+[00:40.76] Once I'm heading for my sweet escape
+[00:58.76] 
+[00:43.91] When I was
+[00:48.91] 
+[00:44.95] Dancing in the dark with the boy I met in Paris
+[00:47.95] Sitting in the front row of my radio show
+[00:51.83] Didn't catch his name but it didn't even matter
+[00:55.68] We were dancing in the dark, dancing in the dark
+[00:59.44] Dancing in the dark with the boy I met in Paris
+[01:03.49] Sitting in the front row of my radio show
+[01:06.72] Underneath the stars, stole my heart with his rhythm
+[01:11.04] We were dancing in the dark, dancing in the dark
+[01:35.04] 
+[01:15.08] Time after time
+[01:19.25] I'm daydreaming of the night where you were mine
+[01:22.83] Don't know what that meant
+[01:26.73] But I know it's one night I won't forget
+[01:31.78] Close my eyes
+[01:34.05] And all I wanna do is get away
+[01:38.35] I'll be fine
+[01:42.67] Once I'm heading for my sweet escape
+[02:00.67] 
+[01:45.52] When I was
+[01:50.52] 
+[01:46.61] Dancing in the dark with the boy I met in Paris
+[01:50.11] Sitting in the front row of my radio show
+[01:53.74] Didn't catch his name but it didn't even matter
+[01:57.26] We were dancing in the dark, dancing in the dark
+[02:01.62] Dancing in the dark with the boy I met in Paris
+[02:05.32] Sitting in the front row of my radio show
+[02:09.03] Underneath the stars, stole my heart with his rhythm
+[02:12.71] We were dancing in the dark, dancing in the dark
+[02:36.71] 
+[02:15.87] He'll never know
+[02:19.02] How he saved my life that night
+[02:24.03] If he's in a café I hope this song will play
+[02:31.03] And he'll remember
+[02:34.18] 'Cause I remember...
+[02:44.18] 
+[02:38.75] Dancing in the dark with the boy I met in Paris, with the boy I met in Paris
+[03:16.75] 
+[02:44.89] Dancing in the dark with the boy I met in Paris
+[02:48.54] Sitting in the front row of my radio show
+[02:51.99] Didn't catch his name but it didn't even matter
+[02:55.87] We were dancing in the dark, dancing in the dark
+[03:00.08] Dancing in the dark with the boy I met in Paris
+[03:01.78] Dancing in the dark with the boy I met in Paris
+[03:05.10] Sitting in the front row of my radio show
+[03:07.63] Underneath the stars, stole my heart with his rhythm
+[03:11.57] We were dancing in the dark, dancing in the dark
+[03:35.57] 
+[03:15.06] With the boy I met in Paris
+[03:19.06] With the boy I met in Paris
+[03:22.81] With the boy I met in Paris
+[03:26.54] We were dancing in the dark, dancing in the dark
+```
